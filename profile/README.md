@@ -1,16 +1,14 @@
 # Volaris
 
-Welcome to Volaris - Your Privacy Matters!
-
 ## 🌐 About
 
 Volaris is an open-source encryption tool designed to prioritize privacy and security. Built using Rust, it offers a modern and efficient solution for securing your data across multiple platforms, including desktops, command-line interfaces (CLI), and mobile devices.
 
 ## 🔍 Features
 
-- **Cross-Platform Support**: Available on desktop, CLIs, and mobile devices.
+- **Cross-Platform Support**: Soon to be available on desktop and mobile devices.
 - **Rust-Based Security**: Leveraging Rust's safety and performance features.
-- **Modern Encryption Standards**: Uses the latest encryption algorithms to ensure data security.
+- **Modern Encryption Standards**: Uses the secure encryption algorithms to ensure data security.
 
 ## 🚀 Get Started
 
